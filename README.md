@@ -13,16 +13,18 @@ To create the drive time data, first, a list of census tracts with center coordi
 FOLDER LAYOUT
 -------
 
-Graphics Work: contains files relating to creating end visualization.
-Original Documents: outlines task and mission of project.
-Python Code: python code for drive time.
-Supporting Data: various data sources used throughout the project.
+* Graphics Work: contains files relating to creating end visualization.
+* Original Documents: outlines task and mission of project.
+* Python Code: python code for drive time.
+* Supporting Data: various data sources used throughout the project.
 
 FINAL FILE
 -------
 
-Final Presentation.jpg: final visualization produced.
+* Final Presentation.jpg: final visualization produced.
 
-AUTHOR
+AUTHORS
 -------
 * Brett Bejcek
+* Kyle Voytovich
+* Justin Gurtz
