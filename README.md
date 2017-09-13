@@ -21,7 +21,7 @@ FOLDER LAYOUT
 FINAL FILE
 -------
 
-* Final Presentation.jpg: final visualization produced.
+<img src="Final Presentation.jpg" width = "900">
 
 AUTHORS
 -------
